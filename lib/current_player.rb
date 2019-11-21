@@ -3,4 +3,3 @@ def turn_count(board)
     return turns.length
 
   end
-  
